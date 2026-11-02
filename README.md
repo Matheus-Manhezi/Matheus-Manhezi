@@ -20,10 +20,10 @@
 
 | Atributo | Nível | Modificador | Domínio de Aplicação |
 | :--- | :---: | :---: | :--- |
-| 🧠 **Inteligência** | **19** | **+4** | Arquitetura Cloud, Resolução de Incidentes & IaC |
+| 🗡️ **Força** | **12** | **+1** | Processamento Backend, Compilações & Cargas Pesadas |
 | ⚙️ **Destreza** | **16** | **+3** | Automação CI/CD, Containerização & Scripting Ágil |
 | 🛡️ **Constituição** | **15** | **+2** | Tolerância a Falhas, Alta Disponibilidade & Resiliência |
-| 🗡️ **Força** | **12** | **+1** | Processamento Backend, Compilações & Cargas Pesadas |
+| 🧠 **Inteligência** | **19** | **+4** | Arquitetura Cloud, Resolução de Incidentes & IaC |
 | 💬 **Sabedoria** | **14** | **+2** | Observabilidade, FinOps & Políticas de Rollback |
 | 🍀 **Carisma** | **12** | **+1** | Documentação Clara & Trabalho em Guilda |
 
