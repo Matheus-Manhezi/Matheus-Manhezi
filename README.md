@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Classe-Mago_DevOps-7952b3?style=for-the-badge&logo=dungeonsanddragons&logoColor=white" />
   <img src="https://img.shields.io/badge/Nível-12-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Alinhamento-Caótico_Bom-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Alinhamento-Leal_Bom-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mana-AWS_%26_Cloudflare-orange?style=for-the-badge" />
 </p>
 
