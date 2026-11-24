@@ -16,6 +16,16 @@
 
 ---
 
+## 🔥 Ritual das Contribuições
+
+O arquimago conjura bolas de fogo sobre minhas contribuições do GitHub.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Matheus-Manhezi/Matheus-Manhezi/output/wizard.gif" alt="Mago lançando bolas de fogo nas contribuições do GitHub" />
+</p>
+
+---
+
 ## 🎲 Ficha de Personagem (Status Sheet)
 
 | Atributo | Nível | Modificador | Domínio de Aplicação |
