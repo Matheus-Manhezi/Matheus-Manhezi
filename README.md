@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Matheus-Manhezi/Matheus-Manhezi/output/wizard.gif?v=1" alt="Mago lançando bolas de fogo nas contribuições do GitHub" />
+  <img src="https://raw.githubusercontent.com/Matheus-Manhezi/Matheus-Manhezi/output/wizard.gif?v=2" alt="Mago lançando bolas de fogo nas contribuições do GitHub" />
 </p>
 
 ---
