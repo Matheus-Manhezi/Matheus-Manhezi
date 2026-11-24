@@ -16,15 +16,6 @@
 
 ---
 
-## 🔥 Ritual das Contribuições
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Matheus-Manhezi/Matheus-Manhezi/output/wizard.gif?v=2" alt="Mago lançando bolas de fogo nas contribuições do GitHub" />
-</p>
-
----
-
 ## 🎲 Ficha de Personagem (Status Sheet)
 
 | Atributo | Nível | Modificador | Domínio de Aplicação |
@@ -97,3 +88,13 @@ spells:
   level_5:
     name: "Milagre de Produção"
     spells: [ "Multi-region Failover", "Disaster Recovery Plan", "Instant Zero-Loss Rollback" ]
+```
+---
+
+## 🔥 Ritual das Contribuições
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Matheus-Manhezi/Matheus-Manhezi/output/wizard.gif?v=1" alt="Mago lançando bolas de fogo nas contribuições do GitHub" />
+</p>
+
