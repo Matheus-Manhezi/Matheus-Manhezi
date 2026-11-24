@@ -95,6 +95,6 @@ spells:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Matheus-Manhezi/Matheus-Manhezi/output/wizard.gif?v=1" alt="Mago lançando bolas de fogo nas contribuições do GitHub" />
+  <img src="https://raw.githubusercontent.com/Matheus-Manhezi/Matheus-Manhezi/output/wizard.gif?rev=6f2dc2ca6a41d9690af1090dda3b9719f1a167f5" alt="Mago lançando bolas de fogo nas contribuições do GitHub" />
 </p>
 
