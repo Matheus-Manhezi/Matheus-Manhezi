@@ -4,7 +4,7 @@ import json
 import math
 import os
 import urllib.request
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw
 
 USER = os.environ.get('GITHUB_USERNAME', 'Matheus-Manhezi')
 QUERY = '''query($login: String!) { user(login: $login) { contributionsCollection { contributionCalendar { weeks { contributionDays { contributionCount date } } } } } }'''
@@ -33,14 +33,11 @@ def render(weeks, path):
     active = [(c, r) for c, r, count, _ in cells if count]
     targets = active[::max(1, math.ceil(len(active) / 24))][:24]
     frames = []
-    font = ImageFont.load_default()
     steps = max(1, len(targets))
     for frame in range(steps * 4 + 12):
         image = Image.new('RGB', (width, height), '#100f20')
         d = ImageDraw.Draw(image)
         d.rounded_rectangle((2, 2, width-3, height-3), radius=14, outline='#4c3b70', width=2)
-        d.text((25, 19), 'THE ARCHMAGE OF COMMITS', font=font, fill='#d8c5ff')
-        d.text((25, 221), 'Casting fireball on GitHub contributions', font=font, fill='#a095bc')
         ix = min(frame // 4, steps)
         for col, row, count, level in cells:
             x, y = left + col * (cell + gap), top + row * (cell + gap)
